@@ -1,3 +1,4 @@
 Curso: Programación de sistemas de información 
 Institucion: ISER
 Estado: Inicial.
+colaborador Cristian
