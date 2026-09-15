@@ -1,3 +1,4 @@
 Curso: Programación de sistemas de información/nose 
 Institucion: ISER/Instituto
 Estado: Inicial.
+colaborador Cristian
